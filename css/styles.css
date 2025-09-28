@@ -1,0 +1,29 @@
+#imgbanner {
+   padding: 30px;
+   width: 100%;
+}
+
+body{
+   background-color: #FFE8FA;
+}
+
+footer{
+   background-color: #E3BFF5;
+   color: black !important;
+}
+
+header{
+   margin: 20px;
+}
+
+   
+
+.btn-purple{
+   background-color: #E3BFF5 ;
+   color: black;
+}
+
+.btn-purple:hover{
+   background-color: #CD6EFF
+ ;
+}
